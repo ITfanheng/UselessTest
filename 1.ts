@@ -9,4 +9,3 @@ function a() {
 
     console.log('qwer');
 }
-exports.default = a;
