@@ -9,3 +9,7 @@ function a() {
 
     console.log('qwer');
 }
+*
+ * qweq
+ qwee
+
